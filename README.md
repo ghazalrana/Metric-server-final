@@ -1,2 +1,8 @@
-# Metric-server-final
-customize yaml file for cluster 
+# Metric-server-sample 
+
+
+https://github.com/ghazalrana/metrics-server
+
+
+
+
